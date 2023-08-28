@@ -1,2 +1,2 @@
-# Aulas-Ruby
- Curso de Ruby
+#Curso das aulas-Ruby
+ Repositório do Curso de Ruby
