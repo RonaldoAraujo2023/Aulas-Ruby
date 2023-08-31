@@ -1,13 +1,17 @@
 
-print "Entre com o primeiro valor "
+#TODO:  Crie as condições necessárias para calcular PROD
 
-firstValue  = gets.to_i
+puts "Entre com o primeiro valor "
 
-print "Entre com o segundo valor "
+#firstValue  = gets.chomp.to_i
+firstValue = gets.to_i;
 
-secondValue  = gets.to_i
+puts "Entre com o segundo valor "
+
+#secondValue  = gets.chomp.to_i
+
+secondValue = gets.to_i;
 
 PROD = firstValue * secondValue
 
-puts "O calculo do produto destes valores são #{PROD} "
-
+puts "O calculo do produto destes valores são: #{PROD} "
